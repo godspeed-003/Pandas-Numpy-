@@ -1,2 +1,1 @@
-# Pandas-Numpy-
-Basic Pandas and Numpy Code Examples
+You can get a hang of the libraries with these files. This is only a starter.
